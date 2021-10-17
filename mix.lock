@@ -1,0 +1,7 @@
+%{
+  "dialyxir": {:hex, :dialyxir, "0.5.1", "b331b091720fd93e878137add264bac4f644e1ddae07a70bf7062c7862c4b952", [:mix], [], "hexpm", "6c32a70ed5d452c6650916555b1f96c79af5fc4bf286997f8b15f213de786f73"},
+  "faker": {:hex, :faker, "0.16.0", "1e2cf3e8d60d44a30741fb98118fcac18b2020379c7e00d18f1a005841b2f647", [:mix], [], "hexpm", "fbcb9bf1299dff3c9dd7e50f41802bbc472ffbb84e7656394c8aa913ec315141"},
+  "nimble_csv": {:hex, :nimble_csv, "1.1.0", "b1dba4a86be9e03065c9de829050468e591f569100332db949e7ce71be0afc25", [:mix], [], "hexpm", "e986755bc302832cac429be6deda0fc9d82d3c82b47abefb68b3c17c9d949a3f"},
+  "pane": {:hex, :pane, "0.4.1", "ca4275b5799066d52c857e7b0deb2feaba409d607419fe54cde056329d247a89", [:mix], [], "hexpm", "27a292ca86f52d4777422930c17fd4a12eaa930d86a6193665c452f94a04ff8a"},
+  "scribe": {:hex, :scribe, "0.10.0", "90e61b21fee884f58b955d1f45d7fa3e75f161ecb62bad8af6087aef3955c74f", [:mix], [{:pane, "~> 0.2", [hex: :pane, repo: "hexpm", optional: false]}], "hexpm", "3829da9c6a28b2105f0ec50e40f447bf768fb7d96717fbfceb602573f1a3c62e"},
+}
